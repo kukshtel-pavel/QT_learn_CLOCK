@@ -1,2 +1,1 @@
-# QT_learn_CLOCK
-My clock 
+# QT_learn_CLOCK_and_DATE
